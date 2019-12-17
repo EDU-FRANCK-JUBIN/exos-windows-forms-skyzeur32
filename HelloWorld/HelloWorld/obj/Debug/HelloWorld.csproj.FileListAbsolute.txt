@@ -1,0 +1,12 @@
+C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Hotel.resources
+C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Calculatrice.resources
+C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Jeu.resources
