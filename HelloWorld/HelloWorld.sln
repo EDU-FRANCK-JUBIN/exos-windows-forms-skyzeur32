@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexagone", "Hexagone\Hexagone.csproj", "{47C73342-3173-47DD-B760-C36AAA7B1511}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRcoder", "QRcode\QRcoder.csproj", "{2AAE5F92-1AA1-476E-B928-56EDEC30994D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Packages", "QRcode\Packages.csproj", "{2AAE5F92-1AA1-476E-B928-56EDEC30994D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

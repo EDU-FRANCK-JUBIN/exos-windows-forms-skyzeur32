@@ -25,8 +25,8 @@ namespace QRcode
 
         private void btn_Itext_Click(object sender, EventArgs e)
         {
-            /*Form2 = IText = new Form2();
-            IText.Show();*/
+            Form2  IText = new Form2();
+            IText.Show();
         }
     }
 }

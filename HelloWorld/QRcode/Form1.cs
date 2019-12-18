@@ -8,10 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using QRCoder;
-using iText;
-using iText.Kernel.Pdf;
-using iText.Layout;
-using iText.Layout.Element;
+
 
 namespace QRcode
 {
@@ -44,12 +41,6 @@ namespace QRcode
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string monTexte = textBox1.Text;
-            var writter = new PdfWriter(@"C:\Users\skyze\Documents\2019-2020\IPI M1 IL\Test.pdf");
-            var pdf = new PdfDocument(writter);
-            var document = new Document(pdf);
-            document.Add(new Paragraph(monTexte));
-            document.Close();
 
 
 
