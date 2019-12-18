@@ -1,0 +1,9 @@
+C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\Hexagone\bin\Debug\Hexagone.exe.config
+C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\Hexagone\bin\Debug\Hexagone.exe
+C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\Hexagone\bin\Debug\Hexagone.pdb
+C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\Hexagone\obj\Debug\Hexagone.csprojAssemblyReference.cache
+C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\Hexagone\obj\Debug\Hexagone.Form1.resources
+C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\Hexagone\obj\Debug\Hexagone.Properties.Resources.resources
+C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\Hexagone\obj\Debug\Hexagone.csproj.GenerateResource.cache
+C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\Hexagone\obj\Debug\Hexagone.exe
+C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\Hexagone\obj\Debug\Hexagone.pdb

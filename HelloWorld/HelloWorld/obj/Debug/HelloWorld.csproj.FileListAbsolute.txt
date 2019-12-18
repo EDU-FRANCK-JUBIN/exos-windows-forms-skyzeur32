@@ -10,3 +10,5 @@ C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\HelloWorld\obj\Debug\
 C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Hotel.resources
 C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Calculatrice.resources
 C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Jeu.resources
+C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Databinding.resources
+C:\Users\skyze\Documents\2019-2020\IPI M1 IL\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.GridView.resources
