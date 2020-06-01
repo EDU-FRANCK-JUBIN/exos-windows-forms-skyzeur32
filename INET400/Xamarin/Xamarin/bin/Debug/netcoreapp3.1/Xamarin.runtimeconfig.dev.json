@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\skyze\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\skyze\\.nuget\\packages"
+    ]
+  }
+}
